@@ -14,7 +14,7 @@
 # My Social Accounts
 - Twitter - https://twitter.com/sha7hid
 - Instagram - https://www.instagram.com/sha_7hid/
-- Linkedin - https://www.linkedin.com/in/shahid-k-p-a9b488227/
+- Linkedin - https://www.linkedin.com/in/sha7hid/
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me - <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-gmail-social-media-justicon-flat-justicon.png"/> shakp2003@gmail.com or message me on <img src="https://img.icons8.com/color/50/000000/whatsapp--v2.png"/>@7994959712
 
