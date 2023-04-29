@@ -10,7 +10,7 @@
 - Netflix Clone - https://github.com/Sha7hid/Netflix-Clone
 - BlogIt - https://github.com/Sha7hid/Blog__Frontend
 - Cdata - https://github.com/Sha7hid/Cdata-Frontend
-- 3D Portfolio - https://github.com/Sha7hid/3D-portfolio
+- 3D Portfolio - https://github.com/Sha7hid/3D-portfolio <Br>
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me - <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-gmail-social-media-justicon-flat-justicon.png"/> shakp2003@gmail.com or message me on <img src="https://img.icons8.com/color/50/000000/whatsapp--v2.png"/>@7994959712
 
