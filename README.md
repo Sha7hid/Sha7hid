@@ -6,6 +6,7 @@
 
 - Stacks i know <br> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/96/000000/flutter.png"/><img src="https://img.icons8.com/color/96/000000/react-native.png"/>
 # My projects 
+- TechIt - https://github.com/Sha7hid/TechIt
 - Admin Panel - https://github.com/Sha7hid/Admin-Panel
 - Fudo - https://github.com/Sha7hid/Food-Ordering-App
 - Netflix Clone - https://github.com/Sha7hid/Netflix-Clone
